@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0 ;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+    background-color: darkslategrey;
+}
+.border {
+    display: flex;
+    justify-content: center;
+    width: 35rem;
+    height: 6rem;
+    border: 2px solid #5c9d70;
+    position: absolute;
+}
+p {
+    font-size: 3rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.js {
+    color: yellowgreen;
+}
+
+.typed-text {
+    color: #20c20e;
+}
+
+.cursor {
+    color: #20c20e;
+}
